@@ -9,5 +9,5 @@ Mis fortalezas son el trabajo en equipo y el aprendizaje autónomo y constante.
 - Estoy aprendiendo Typescript
 - Estoy en busca de empleo en Desarrollo Frontend
 - Me puede contactar por el correo electronico: adriannaruiz24@gmail.com
-- Mi CV: https://adrianamariaruiz.github.io/cv/
+- Mi CV: https://cv-adriana-ruiz.netlify.app
 
