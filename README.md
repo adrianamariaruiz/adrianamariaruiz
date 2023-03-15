@@ -1,6 +1,13 @@
 # Adriana Ruiz
 
-### Soy desarrolladora web, con conocimiento HTML, Javascript, CSS, React, Github y SCRUM. 
+### Soy desarrolladora web, con conocimiento en:
+- HTML 
+- Javascript
+- CSS / SASS / Tailwind
+- React
+- Github 
+- SCRUM
+ 
 Me apasiona todo lo relacionado con lo visual y la interacción con el cliente. 
 Mis fortalezas son el trabajo en equipo y el aprendizaje autónomo y constante.
 
