@@ -6,6 +6,7 @@
 - Typescript
 - CSS / SASS / Tailwind
 - React
+- MySQL
 - Github 
 - SCRUM
 - VTEX IO
