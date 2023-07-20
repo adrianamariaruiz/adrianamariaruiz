@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, Soy Adriana</h1>
+
+<div style="text-align: center">
+  <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='200' />
+</div>
+
 <h3 align="center">Soy Desarrolladora Frontend, me apasiona todo lo relacionado con lo visual y la interacción con el cliente.</h3>
+
+<br/>
 
 - 👨‍💻 Mi portafolio: [https://cv-adriana-ruiz.netlify.app](https://cv-adriana-ruiz.netlify.app)
 
