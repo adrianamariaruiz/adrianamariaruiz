@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Soy Adriana</h1>
 
+<br/>
+
 <h3 align="center">Soy Desarrolladora Frontend, me apasiona todo lo relacionado con lo visual y la interacción con el cliente.</h3>
 
 <br/>
