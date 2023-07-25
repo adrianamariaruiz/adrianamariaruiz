@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋, Soy Adriana</h1>
 
+<div align="center">
+  <img src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='200' />
+</div>
 <br/>
 
 <h3 align="center">Soy Desarrolladora Frontend, me apasiona todo lo relacionado con lo visual y la interacción con el cliente.</h3>
@@ -63,5 +66,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/VTEX_Logo.svg" alt="vtex io" width="60" height="50"/> 
   </a> 
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adrianamariaruiz&theme=dark&border_radius=5.3&locale=es)](https://git.io/streak-stats)
+
+![Adriana´s GutHub Stats](https://github-readme-stats.vercel.app/api?username=adrianamariaruiz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianamariaruiz&layout=compact&theme=dracula&hide=CMake,c%2B%2B)
 
 
