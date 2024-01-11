@@ -5,7 +5,8 @@
 </div>
 <br/>
 
-<h3 align="center">Soy Desarrolladora Frontend, me apasiona todo lo relacionado con lo visual y la interacción con el cliente.</h3>
+<h3 >Soy Desarrolladora Frontend, gracias a las experiencias laborales que he tenido hasta el momento he aprendido a trabajar en equipo, tener una comunicación asertiva y ser una personsa autodidacta, perseverante y constante. Me gusta estar actualizada y puedo adaptarme facilmente.</h3>
+<h3>Me apasiona todo lo relacionado con lo visual y la interacción con el cliente.</h3>
 
 <br/>
 
